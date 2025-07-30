@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdsameeralam9&label=Profile%20views&color=0e75b6&style=flat" alt="mdsameeralam9" /> </p>
 
-- 🔭 I’m currently working on **Mobifine Elite**
+- 🔭 I’m currently working in **Capgemini**
 
 - 🌱 I’m currently learning **Next Js, Typescript**
 
 - 💬 Ask me about **React, Javascript**
 
-- 📫 How to reach me **mdsameer.alam9@gmail.com**
+- 📫 How to reach me **mdsameer.alam9@gmail.com** and **8210004801**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
