@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working in **Capgemini**
 
-- 🌱 I’m currently learning **Next Js, Typescript**
+- 🌱 I’m currently learning **Typescript, Next Js**
 
 - 💬 Ask me about **React, Javascript**
 
