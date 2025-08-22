@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Sameer</h1>
-<h3 align="center">A Full stack web developer from India</h3>
+<h3 align="center">A Full stack web developer</h3>
 <img align="right" alt="_img" width="400" src="https://www.21kschool.com/gh/wp-content/uploads/sites/33/2024/03/What-Is-Block-Coding-For-Kids_Guide-To-Get-Started-With-Learning-Block-Coding.jpg"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdsameeralam9&label=Profile%20views&color=0e75b6&style=flat" alt="mdsameeralam9" /> </p>
